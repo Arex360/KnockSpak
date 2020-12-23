@@ -1,0 +1,13 @@
+/home/arex/Desktop/knapsnak/obj/Debug/netcoreapp3.1/knapsnak.csprojAssemblyReference.cache
+/home/arex/Desktop/knapsnak/obj/Debug/netcoreapp3.1/knapsnak.AssemblyInfoInputs.cache
+/home/arex/Desktop/knapsnak/obj/Debug/netcoreapp3.1/knapsnak.AssemblyInfo.cs
+/home/arex/Desktop/knapsnak/obj/Debug/netcoreapp3.1/knapsnak.csproj.CoreCompileInputs.cache
+/home/arex/Desktop/knapsnak/bin/Debug/netcoreapp3.1/knapsnak
+/home/arex/Desktop/knapsnak/bin/Debug/netcoreapp3.1/knapsnak.deps.json
+/home/arex/Desktop/knapsnak/bin/Debug/netcoreapp3.1/knapsnak.runtimeconfig.json
+/home/arex/Desktop/knapsnak/bin/Debug/netcoreapp3.1/knapsnak.runtimeconfig.dev.json
+/home/arex/Desktop/knapsnak/bin/Debug/netcoreapp3.1/knapsnak.dll
+/home/arex/Desktop/knapsnak/bin/Debug/netcoreapp3.1/knapsnak.pdb
+/home/arex/Desktop/knapsnak/obj/Debug/netcoreapp3.1/knapsnak.dll
+/home/arex/Desktop/knapsnak/obj/Debug/netcoreapp3.1/knapsnak.pdb
+/home/arex/Desktop/knapsnak/obj/Debug/netcoreapp3.1/knapsnak.genruntimeconfig.cache
